@@ -23,7 +23,7 @@ samples, guidance on mobile development, and a full API reference.
 
 ## Resultados
 ### Pantalla 1
-![image](https://github.com/JaquelineGalindoHuitron/p12-RoutesNav-6J/assets/143548375/ac5adc19-b816-4850-b83e-94d2b7e43f48)
+![image](https://github.com/JaquelineGalindoHuitron/p12-RoutesNav-6J/assets/143548375/395b9e86-86a0-43ff-abd7-bce6956dbfe7)
 
-### Pantalla 
-![image](https://github.com/JaquelineGalindoHuitron/p12-RoutesNav-6J/assets/143548375/25cddcff-aff8-44a8-b69a-425c99a30d10)
+### Pantalla 2
+![image](https://github.com/JaquelineGalindoHuitron/p12-RoutesNav-6J/assets/143548375/79d99c85-bc3e-4403-92ba-3f50a22fac9e)
