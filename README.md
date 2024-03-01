@@ -17,3 +17,13 @@ samples, guidance on mobile development, and a full API reference.
 
 - How to use FlutLab? Please, view our https://flutlab.io/docs
 - Join the discussion and conversation on https://flutlab.io/residents
+
+## Link de referencia para Routes Navigator
+- https://docs.google.com/document/d/1jTloUy06IgWM7lw4rxjJRm-U0HS4YiTs9KUiXsZLa6U/edit?pli=1
+
+## Resultados
+### Pantalla 1
+![image](https://github.com/JaquelineGalindoHuitron/p12-RoutesNav-6J/assets/143548375/ac5adc19-b816-4850-b83e-94d2b7e43f48)
+
+### Pantalla 
+![image](https://github.com/JaquelineGalindoHuitron/p12-RoutesNav-6J/assets/143548375/25cddcff-aff8-44a8-b69a-425c99a30d10)
